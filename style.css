@@ -42,9 +42,9 @@ nav ul li {
     background: #2f5bea;
     color: #fff;
     border: none;
-    padding: 18px 45px;
+    padding: 18px 40px;
     border-radius: 10px;
-    font-size: 24px;
+    font-size: 15px;
     font-weight: 700;
     cursor: pointer;
     transition: .3s;
@@ -116,7 +116,7 @@ nav ul li {
 
 .hero-child button {
     position: relative;
-    top: 130px !important;
+    top: 90px !important;
 }
 
 /* banner section end */
